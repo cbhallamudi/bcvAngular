@@ -1,0 +1,13 @@
+*{
+    border:none;
+    outline:none;
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: red;
+    background: linear-gradient(to right bottom,hotpink,violet,lightgreen);
+    -webkit-background: -webkit-linear-gradient(to right bottom,hotpink,violet,lightgreen);
+}
