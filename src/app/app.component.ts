@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'My First Angular Page';
+  description = 'This is Chaitanya, this is my first ever Angular 7 page. Wish me good luck';
 }
