@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    border:none;
+    outline:none;
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+#myHeadDiv{
+    width: 80%;
+    margin: auto;
+    background-color: #0ff;
+}
+h1{
+    text-align: center;
+    color: red;
+    background: linear-gradient(to right bottom,hotpink,violet,lightgreen);
+    -webkit-background: -webkit-linear-gradient(to right bottom,hotpink,violet,lightgreen);
+}
